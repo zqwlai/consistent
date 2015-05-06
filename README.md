@@ -6,7 +6,7 @@ Consistent hash package for Go.
 Installation
 ------------
 
-    go get stathat.com/c/consistent
+    go get github.com/toolkits/consistent
 
 Examples
 --------
